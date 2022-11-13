@@ -9,13 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Pillzen pvt.Ltd**
 
 - 🌱 I’m currently learning **Flutter,Java,Python..**
 
 - 👯 Currently persuing **B.tech in Artificial Intelligence and Data Science**
 
-- 📞 My Ph.No: [7025768294](7025768294)
 
 - 💬 Ask me about **HTML,CSS3**
 
